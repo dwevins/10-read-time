@@ -99,3 +99,12 @@ a {
     }
   }
 }
+
+.navbar {
+  width: 100%;
+  text-align: center;
+
+  &__link {
+    margin: 0 $gutter;
+  }
+}
